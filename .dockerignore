@@ -1,0 +1,21 @@
+# File: Docker Ignore
+# Description: Files to exclude from Docker context
+# Path: ./.dockerignore
+
+node_modules
+npm-debug.log
+dist
+logs
+*.log
+.env
+.env.local
+.git
+.gitignore
+README.md
+.vscode
+.idea
+.DS_Store
+coverage
+.nyc_output
+.wwebjs_auth
+.wwebjs_cache
